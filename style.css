@@ -1,0 +1,35 @@
+.img-thumbnail{
+    width: 100px;
+ 
+}
+ 
+.d-flex {
+    gap: 0;
+}
+ 
+.navbar {
+    margin-left: 0;
+}
+ 
+.navbar-container {
+    padding: 0;
+    margin: 0;
+}
+ 
+img {
+    margin-right: 5px;
+}
+ 
+.carousel-inner img {
+    object-fit: cover;
+    height: 70vh;
+}
+ 
+.container {
+    margin-top: 20px;
+}
+ 
+.carousel {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
